@@ -1,3 +1,5 @@
+# The solution is based on .NET with Unit Tests
+
 # Pokemon project structure
 
 1. Pokemon 
